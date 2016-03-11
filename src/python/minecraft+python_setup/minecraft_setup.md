@@ -12,7 +12,7 @@ Disse oppgavene er basert på en tutorial som er hentet herfra: [Python coding f
 # Steg 1: Installer Forge for Minecraft {.activity}
 1. For å ta i bruk Forge må vi først ha installert Minecraft. Dette gjøres ved å laste ned [Minecraft](www.minecraft.net). 
 2. Viktig nå at du kjører Minecraft 1.8 en gang før du installerer Forge. Etter å ha kjørt Minecraft 1.8, lukk Minecraft og Minecraft Launcher.
-3. Last ned Forge 1.8: [Forge](http://files.minecraftforge.net/)
+3. Last ned Forge 1.8(1.8 blank): [Forge](http://files.minecraftforge.net/)
 4. Installer Forge med standard instillinger.
 5. Start Minecraft og velg Forge-profilen som skal ha dukket opp. 
 
@@ -20,8 +20,9 @@ Disse oppgavene er basert på en tutorial som er hentet herfra: [Python coding f
 
 
 # Steg 2: Installere Python {.activity}
+Har du Python fra før, så kan du hoppe til `Steg 3`.
 1. Hvis du ikke har Python 3, så kan du laste det ned her: [Python](https://www.python.org/downloads/i)
-2. Når du installerer Python er det viktig at du trykker på `Customize Python` og huker av `Add python to Path`, dersom du har Windows. 
+2. Når du installerer Python er det viktig at du trykker på `Customize Python` og huker av `Add python to Path`, dersom du har Windows. NB! Bilde viser Python 2.7.9, men det samme gjelder for Python 3.  
 ![](step2.jpg)
 
 # Steg 3: Installer mod og skript {.activity}
